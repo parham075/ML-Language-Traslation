@@ -1,0 +1,16 @@
+name: trnaslate
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - seaborn
+  - ipykernel
+  - pip
+  - pip:
+    - scikit-learn
+    - tensorflow==2.14
+    - loguru
+    - numpy
+    - tqdm
+    - pandas
