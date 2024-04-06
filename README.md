@@ -1,4 +1,4 @@
-# ML-Language-Traslation
+# Machine Learning Language Translation from English To Persian
 
 For creating the environment and executing the Jupyter Notebook, open a new terminal and execute the following commands:
 ```python
